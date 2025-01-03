@@ -1,6 +1,9 @@
 # WHMCS TLD & Pricing Sync Module
 
-This module allows you to sync TLDs and pricing in WHMCS.
+This changes to the original InterNetX Registrar allows you to sync TLDs and pricing in WHMCS.
+
+## Download
+[Download here](https://help.internetx.com/display/MODS/Externe+Module)
 
 ## Compatibility
 - **WHMCS Version:** 8.8 and newer  
@@ -13,6 +16,3 @@ This module allows you to sync TLDs and pricing in WHMCS.
    - To use this module, **replace the original WHMCS plugin files from InterNetX** with the provided files here.
    - Upload the contents of the `modules/registrars` directory to the WHMCS installation directory.
    - In the WHMCS admin area, go to **Utilities > Registrar TLD Sync > InterNetX**.
-
-## Download
-[Download here](https://help.internetx.com/display/MODS/Externe+Module)
