@@ -59,6 +59,3 @@ This WHMCS module fetches and displays the AutoDNS XML price list in the WHMCS a
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-This project is licensed under the **EUPL (European Union Public License)**. See the `LICENSE` file for details.
