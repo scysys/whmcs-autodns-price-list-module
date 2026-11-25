@@ -1,3 +1,7 @@
+# Archived
+
+Switch to: https://github.com/DataDachs/WHMCS-InterNetX-AutoDNS-Price-List
+
 # AutoDNS Price List Module for WHMCS
 
 This WHMCS module fetches and displays the AutoDNS XML price list in the WHMCS admin area. It allows administrators to view domain pricing with options to apply margins and rounding adjustments for pricing simulation purposes.
